@@ -2,7 +2,7 @@
 
 An interactive 3D Flip Card animation built with Vue 3, GSAP, and ScrollTrigger. This project demonstrates how to create a smooth scroll-driven card animation featuring scaling, 3D rotation, and a modern UI, making it a great inspiration for landing pages, portfolios, or creative web experiences.
 
-<img width="1200" alt="preview" src="YOUR_SCREENSHOT_HERE">
+<img width="1376" height="896" alt="preview_3D-flip-card" src="https://github.com/user-attachments/assets/ab7ec215-a58b-44fd-ad65-e460284fd743" />
 
 ## Features
 
@@ -22,9 +22,9 @@ An interactive 3D Flip Card animation built with Vue 3, GSAP, and ScrollTrigger.
 ## Installation
 
 **Clone the repository:**
-
-git clone https://github.com/your-username/your-repository.git
-
+```
+git clone https://github.com/EthanDeL/your-repository.git
+```
 Install dependencies:
 ```
 npm install
