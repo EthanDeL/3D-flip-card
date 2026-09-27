@@ -23,7 +23,7 @@ An interactive 3D Flip Card animation built with Vue 3, GSAP, and ScrollTrigger.
 
 **Clone the repository:**
 ```
-git clone https://github.com/EthanDeL/your-repository.git
+git clone https://github.com/EthanDeL/3D-flip-card.git
 ```
 Install dependencies:
 ```
